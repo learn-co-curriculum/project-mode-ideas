@@ -1,7 +1,6 @@
 ---
   tags: project, meta
   language: english, ruby
-  resources: 2
 ---
 
 # Web Development Project Mode Ideas
@@ -26,9 +25,9 @@ In terms of what projects are cool, we tend to think the nature of value in soft
 
 ## Data Visualization
 * Maps that show social program enrollment data, such as [Slate's article on food stamps](http://www.slate.com/articles/news_and_politics/map_of_the_week/2013/04/food_stamp_recipients_by_county_an_interactive_tool_showing_local_snap_data.html) and [D3 visualization of food stamps by state](http://bl.ocks.org/NPashaP/a74faf20b492ad377312).
+* Map that shows school statistics, such as SAT score, funding, dropout rates, etc. by country/state/county/etc.
 
-
-## Coding-Specific
+## Developer-Specific
 * Gitabarotors
   * Show via commits who and through what projects you've worked on with people.
 * Big O calculutor
@@ -41,6 +40,9 @@ In terms of what projects are cool, we tend to think the nature of value in soft
   * Find X type of place near a route.
 
 ## Flatiron Software
+* Flatiron GitHub Pull Request Solari Dashboard via GitHub API hooks
+  * See Fog Creek's example [here](https://github.com/FogCreek/solari-board)
+  * Would display on TV screens for subsequent semesters.
 * Flatiron Magazine
   * Improve upon the current version of [Flatiron's Blog Magazine](http://magazine.flatironschool.com/)
 * Flatiron Eats
@@ -57,7 +59,6 @@ In terms of what projects are cool, we tend to think the nature of value in soft
 * Match Volunteer Tutors to Students
   * Uses locations, skill levels, preferences, availability to match tutors with students.
   * Could take the place of Elana's current weekend Google Drive spreadsheet system.
-
 
 ## APIs
 
