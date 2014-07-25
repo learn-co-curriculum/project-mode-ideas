@@ -78,6 +78,8 @@ In terms of what projects are cool, we tend to think the nature of value in soft
 
 # APIs
 
+There are many, here are some recommendations:
+
 - [Balanced Paymet](https://docs.balancedpayments.com/1.1/overview/)
 - [Etsy](https://www.etsy.com/developers/documentation/getting_started/api_basics)
 - [Facebook](https://developers.facebook.com/)
