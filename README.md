@@ -5,13 +5,24 @@
 
 # Web Development Project Mode Ideas
 
-## Background
+### Contents
+| Section     | Sub-Section |
+|-------------|-------------|
+|[Background](#background)||
+|[Ideas](#ideas)||
+||[Curating-Focused](#curating-focused)|
+||[Data Visualization](#data-visualization)|
+||[Developer-Specific](#developer-specific)|
+||[Flatiron Software](#flatiron-software)|
+||[Logistics](#logistics)|
+||[Social Impact](#social-impact)|
+|[APIs](#apis)||
+
+# Background
+
 In terms of what projects are cool, we tend to think the nature of value in software lies in being able to answer or automate a question that was previously difficult. For example, Airbnb answers the questions "Who's couch can I crash on tonight?", Kickstarter "Where can I get money for an art project?" (or conversely, "Which independent projects can I support?"). Your application—every feature—should answer a person's question. For instance, an application you could build might answer, "Who is committing code at Flatiron School right now?", "Who wants to meet for tutoring this weekend?". Focus on questions, on problems, then solve them with code. Your application should answer at most 2-3 fundemental questions.
 
-## Social Impact
-* Matching Volunteer Tutors to Students
-  * Uses locations, skill levels, preferences, availability to match tutors with students.
-  * Could take the place of Elana's current weekend Google Drive spreadsheet system.
+# Ideas
 
 ## Curating-Focused
 * Wake Up Morning Texts / Email
@@ -32,12 +43,6 @@ In terms of what projects are cool, we tend to think the nature of value in soft
   * Show via commits who and through what projects you've worked on with people.
 * Big O calculutor
   * Read more about Big-O Notation [here](http://en.wikipedia.org/wiki/Big_O_notation).
-
-## Logistics
-* Food Truck Tracker
-  * Based on foodtruck twitters, or other info, map foodtrucks.
-* On My Way Too...
-  * Find X type of place near a route.
 
 ## Flatiron Software
 * Flatiron GitHub Pull Request Solari Dashboard via GitHub API hooks
@@ -60,13 +65,24 @@ In terms of what projects are cool, we tend to think the nature of value in soft
   * Uses locations, skill levels, preferences, availability to match tutors with students.
   * Could take the place of Elana's current weekend Google Drive spreadsheet system.
 
-## APIs
+## Logistics
+* Food Truck Tracker
+  * Based on foodtruck twitters, or other info, map foodtrucks.
+* On My Way Too...
+  * Find X type of place near a route.
 
-- [Github](http://developer.github.com/v3/)
-- [Twilio](http://twilio.com)
-- [Wit.AI](http://wit.ai)
-- [Facebook](https://developers.facebook.com/)
-- [Twitter](https://developer.twitter.com)
-- [NYC Open Data](https://nycopendata.socrata.com/)
+## Social Impact
+* Matching Volunteer Tutors to Students
+  * Uses locations, skill levels, preferences, availability to match tutors with students.
+  * Could take the place of Elana's current weekend Google Drive spreadsheet system.
+
+# APIs
+
 - [Etsy](https://www.etsy.com/developers/documentation/getting_started/api_basics)
+- [Facebook](https://developers.facebook.com/)
+- [Github](http://developer.github.com/v3/)
+- [NYC Open Data](https://nycopendata.socrata.com/)
 - [Spotify](https://developer.spotify.com/web-api/)
+- [Twilio](http://twilio.com)
+- [Twitter](https://developer.twitter.com)
+- [Wit.AI](http://wit.ai)
