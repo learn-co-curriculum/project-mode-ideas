@@ -78,11 +78,14 @@ In terms of what projects are cool, we tend to think the nature of value in soft
 
 # APIs
 
+- [Balanced Paymet](https://docs.balancedpayments.com/1.1/overview/)
 - [Etsy](https://www.etsy.com/developers/documentation/getting_started/api_basics)
 - [Facebook](https://developers.facebook.com/)
+- [Foursquare](https://developer.foursquare.com/start)
 - [Github](http://developer.github.com/v3/)
 - [NYC Open Data](https://nycopendata.socrata.com/)
 - [Spotify](https://developer.spotify.com/web-api/)
+- [StackExchange](http://api.stackexchange.com/)
 - [Twilio](http://twilio.com)
 - [Twitter](https://developer.twitter.com)
 - [Wit.AI](http://wit.ai)
