@@ -76,6 +76,14 @@ In terms of what projects are cool, we tend to think the nature of value in soft
   * Uses locations, skill levels, preferences, availability to match tutors with students.
   * Could take the place of Elana's current weekend Google Drive spreadsheet system.
 
+## Advertising / Marketing / Split Testing
+
+* Find the Best Image
+  * Basically like OkCupid's My Best Face - but imagine you want to choose an image for your website, which is best? Split test it. Inspired by: 
+    
+      I wish there was OKCupid's My Best Face for business. I have a stack of #MuseumHack tour images, want to know which       one is liked best.
+   
+
 # APIs
 
 There are many, here are some recommendations:
