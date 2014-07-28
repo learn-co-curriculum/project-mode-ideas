@@ -55,12 +55,6 @@ In terms of what projects are cool, we tend to think the nature of value in soft
   * Somehow have modal where the pin on the map would link to the Yelp link.
   * Incorporate comments from fellow students and teachers.
   * Would be hosted at `eat.flatironschool.com`.
-* Flatiron Science Fair App
-  * Login system, three roles: student, staff, hiring partner
-  * Profiles for each student
-  * Starring and comment system displayed only to hiring partners.
-  * Form pages for students to fill out with their information/upload PDFs using an uploader GEM
-  * Students can only edit their own page, staff can edit every page, vistors can only view/star/comment.
 * Match Volunteer Tutors to Students
   * Uses locations, skill levels, preferences, availability to match tutors with students.
   * Could take the place of Elana's current weekend Google Drive spreadsheet system.
