@@ -1,6 +1,6 @@
 ---
-  tags: project, meta
-  language: english, ruby
+tags: project, meta
+language: english, ruby
 ---
 
 # Web Development Project Mode Ideas
@@ -79,12 +79,17 @@ Remember, every project should answer a question or solve a problem. Please read
   * Could take the place of Elana's current weekend Google Drive spreadsheet system.
 
 ### Logistics
+
 * Food Truck Tracker
   * Based on foodtruck twitters, or other info, map foodtrucks.
 * On My Way Too...
   * Find X type of place near a route.
+* Make an app that allows families to share personal services such as nannies, babysitters, petsitters, and elderly nurses.
+  * Take a look at [Share Our Nanny](http://shareournanny.blogspot.com/) blog to get started.
 
 ### Social Impact
+
+* Make an app that connects soup kitchens with restaurants to coordinate leftover food pickup.
 * Matching Volunteer Tutors to Students
   * Uses locations, skill levels, preferences, availability to match tutors with students.
   * Could take the place of Elana's current weekend Google Drive spreadsheet system.
