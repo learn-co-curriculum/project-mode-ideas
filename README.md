@@ -41,6 +41,7 @@ There are a bunch of student projects that Flatiron is proud of. Here are just a
 - [Kickammender](http://162.243.246.245/)
 - [LocalList](http://localist.herokuapp.com/)
 - [Looseleaf](http://looseleaf.me/)
+- [MessyChef](http://messychef.herokuapp.com/)
 - [MilkTrackr](http://www.milktrackr.com/)
 - [Missql Command](http://missqlcommand.com/)
 - [Modern Mind](http://modernmind.herokuapp.com/)
