@@ -31,6 +31,8 @@ Every feature of your applicationshould answer a question. For instance, an appl
 
 ## Ideas
 
+Remember, every project should answer a question or solve a problem. Please read the background section first before brainstorming.
+
 ### Curating-Focused
 * Wake Up Morning Texts / Email
   * A morning text/email with what you need to do know for today.
