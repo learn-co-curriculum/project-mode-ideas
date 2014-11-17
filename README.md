@@ -121,6 +121,13 @@ Remember, every project should answer a question or solve a problem. Please read
   * Basically like OkCupid's My Best Face - but imagine you want to choose an image for your website, which is best? Split test it.
   * Inspired by "I wish there was OKCupid's My Best Face for business. I have a stack of #MuseumHack tour images, want to know which one is liked best."
    
+### Social Impact
+
+* Make an app that connects soup kitchens with restaurants to coordinate leftover food pickup.
+* Matching Volunteer Tutors to Students for High Schoolers/Middle Schoolers
+  * Uses locations, skill levels, preferences, availability to match tutors with students.
+* Transit App for Disabled People
+  * See [this link](http://www.ny1.com/content/news/218820/contest-seeks-developers-to-create-transit-apps-aimed-at-nyers-with-disabilities/) for more info.
 
 ## Data
 
