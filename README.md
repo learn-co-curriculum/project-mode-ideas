@@ -5,7 +5,8 @@
 
 # Web Development Project Mode Ideas
 
-### Contents
+## Contents
+
 | Section     | Sub-Section |
 |-------------|-------------|
 |[Background](#background)||
@@ -16,16 +17,18 @@
 ||[Flatiron Software](#flatiron-software)|
 ||[Logistics](#logistics)|
 ||[Social Impact](#social-impact)|
-|[APIs](#apis)||
-|[Misc. Data](#miscellaneous_data)||
 
-# Background
+|[Data](#data)||
+||[APIs](#apis)|
+||[Open Data](#miscellaneous-data)|
+
+## Background
 
 In terms of what projects are cool, we tend to think the nature of value in software lies in being able to answer or automate a question that was previously difficult. For example, Airbnb answers the questions "Who's couch can I crash on tonight?", Kickstarter "Where can I get money for an art project?" (or conversely, "Which independent projects can I support?"). Your application—every feature—should answer a person's question. For instance, an application you could build might answer, "Who is committing code at Flatiron School right now?", "Who wants to meet for tutoring this weekend?". Focus on questions, on problems, then solve them with code. Your application should answer at most 2-3 fundemental questions.
 
-# Ideas
+## Ideas
 
-## Curating-Focused
+### Curating-Focused
 * Wake Up Morning Texts / Email
   * A morning text/email with what you need to do know for today.
 * Increase Your Twitter Following
@@ -35,17 +38,17 @@ In terms of what projects are cool, we tend to think the nature of value in soft
 * Seasonal Ingredient Recipe Suggestor
   * Self-explanatory 
 
-## Data Visualization
+### Data Visualization
 * Maps that show social program enrollment data, such as [Slate's article on food stamps](http://www.slate.com/articles/news_and_politics/map_of_the_week/2013/04/food_stamp_recipients_by_county_an_interactive_tool_showing_local_snap_data.html) and [D3 visualization of food stamps by state](http://bl.ocks.org/NPashaP/a74faf20b492ad377312).
 * Map that shows school statistics, such as SAT score, funding, dropout rates, etc. by country/state/county/etc.
 
-## Developer-Specific
+### Developer-Specific
 * Gitabarotors
   * Show via commits who and through what projects you've worked on with people.
 * Big O calculutor
   * Read more about Big-O Notation [here](http://en.wikipedia.org/wiki/Big_O_notation).
 
-## Flatiron Software
+### Flatiron Software
 * Flatiron GitHub Pull Request Solari Dashboard via GitHub API hooks
   * See Fog Creek's example [here](https://github.com/FogCreek/solari-board)
   * Would display on TV screens for subsequent semesters.
@@ -60,18 +63,18 @@ In terms of what projects are cool, we tend to think the nature of value in soft
   * Uses locations, skill levels, preferences, availability to match tutors with students.
   * Could take the place of Elana's current weekend Google Drive spreadsheet system.
 
-## Logistics
+### Logistics
 * Food Truck Tracker
   * Based on foodtruck twitters, or other info, map foodtrucks.
 * On My Way Too...
   * Find X type of place near a route.
 
-## Social Impact
+### Social Impact
 * Matching Volunteer Tutors to Students
   * Uses locations, skill levels, preferences, availability to match tutors with students.
   * Could take the place of Elana's current weekend Google Drive spreadsheet system.
 
-## Advertising / Marketing / Split Testing
+### Advertising / Marketing / Split Testing
 
 * Find the Best Image
   * Basically like OkCupid's My Best Face - but imagine you want to choose an image for your website, which is best? Split test it. Inspired by: 
@@ -79,7 +82,9 @@ In terms of what projects are cool, we tend to think the nature of value in soft
       I wish there was OKCupid's My Best Face for business. I have a stack of #MuseumHack tour images, want to know which       one is liked best.
    
 
-# APIs
+## Data
+
+### APIs
 
 There are many, here are some recommendations:
 
@@ -111,7 +116,7 @@ There are many, here are some recommendations:
 - [Vine](https://github.com/starlock/vino/wiki/API-Reference)
 - [4Chan](https://github.com/4chan/4chan-API)
 
-## Miscellaneous Data
+### Miscellaneous Data
 
 - [NYC Open Data](https://nycopendata.socrata.com/)
 - [Data.gov](https://www.data.gov/)
