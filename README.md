@@ -32,7 +32,7 @@ Every feature of your applicationshould answer a question. For instance, an appl
 
 ## Ideas
 
-Remember, every project should answer a question or solve a problem. Please read the background section first before brainstorming.
+Remember, every project should answer a question or solve a problem. Please read the [background section](#background) first before brainstorming.
 
 ### Apps that Curate Information
 * Wake Up Morning Texts / Email
