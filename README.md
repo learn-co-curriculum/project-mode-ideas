@@ -50,6 +50,7 @@ There are a bunch of student projects that Flatiron is proud of. Here are just a
 - [Odysee](http://www.odysee.voyage/)
 - [Pale Blue Dot](http://palebluedot.herokuapp.com/)
 - [Picker Pool](http://www.pickerpool.com/)
+- [Pup Club](http://www.thepup.club/)
 - [WhoWhatWhen](http://192.241.176.112/)
 - [Wishgram](http://162.243.119.229/)
 - [World View](http://www.world-view.today/)
