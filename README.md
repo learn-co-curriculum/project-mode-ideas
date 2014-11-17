@@ -11,7 +11,8 @@ language: english, ruby
 |-------------|-------------|
 |[Background](#background)||
 |[Ideas](#ideas)||
-||[Curating-Focused](#curating-focused)|
+||[Curating-Focused](#apps-that-curate-information)|
+||[Media](#media)
 ||[Data Visualization](#data-visualization)|
 ||[Developer-Specific](#developer-specific)|
 ||[Flatiron Software](#flatiron-software)|
@@ -33,18 +34,23 @@ Every feature of your applicationshould answer a question. For instance, an appl
 
 Remember, every project should answer a question or solve a problem. Please read the background section first before brainstorming.
 
-### Curating-Focused
+### Apps that Curate Information
 * Wake Up Morning Texts / Email
   * A morning text/email with what you need to do know for today.
+* Scrapebook CMS
+  * Create a scrapebook timecapsule where you create a vignette of data and get it emailed to you.
+* Seasonal Ingredient Recipe Suggestor
+  * Self-explanatory 
+
+### Media
+
 * Increase Your Twitter Following
   * Pretty much, you would be building a free version of [Refollow](http://re-follow.com/).
   * Based on content of a user's tweets and the people who already follow that user, this software would recommend other Twitter uses for the user to follow who would be more likely to follow back. 
   * It would also suggest a list of users to unfollow because they're not following back.
   * Finally, it would suggest a list of users to unfollow because they're following and tend to continue following, whether or whether not the users they follow follow-back.
-* Scrapebook CMS
-  * Create a scrapebook timecapsule where you create a vignette of data and get it emailed to you.
-* Seasonal Ingredient Recipe Suggestor
-  * Self-explanatory 
+* Podcastr
+  * A simple, and we mean simple, version of Tumblr but for podcasters instead of bloggers.
 
 ### Data Visualization
 
