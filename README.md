@@ -33,6 +33,8 @@ Every feature of your applicationshould answer a question. For instance, an appl
 
 ## Past Projects
 
+There are a bunch of student projects that Flatiron is proud of. Here are just a few:
+
 - [Crowd Tangle](http://www.crowdtangle.com/map)
 - [GameTable](http://gametable.co/)
 - [Gitshoes](http://www.gitshoes.com/)
