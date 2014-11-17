@@ -10,6 +10,7 @@ language: english, ruby
 | Section     | Sub-Section |
 |-------------|-------------|
 |[Background](#background)||
+|[Past Projects](#past-projects)||
 |[Ideas](#ideas)||
 ||[Curating-Focused](#apps-that-curate-information)|
 ||[Media](#media)
@@ -29,6 +30,22 @@ In terms of what projects are cool, we tend to think the nature of value in soft
 For example, AirBnB answers the question "Who's couch can I crash on tonight?" and "How can my guest bedroom/couch earn me extra cash?". Meanwhile, Kickstarter answers the questions "Where can I get money for an art project?" and "Which independent projects can I support?". 
 
 Every feature of your applicationshould answer a question. For instance, an application you could build might answer, "Who is committing code at Flatiron School right now?", "Who wants to meet for tutoring this weekend?". Focus on questions, on problems, then solve them with code. Your application should answer at most 2-3 fundemental questions.
+
+## Past Projects
+
+- [Crowd Tangle](http://www.crowdtangle.com/map)
+- [GameTable](http://gametable.co/)
+- [Gitshoes](http://www.gitshoes.com/)
+- [Kickammender](http://162.243.246.245/)
+- [LocalList](http://localist.herokuapp.com/)
+- [Looseleaf](http://looseleaf.me/)
+- [MilkTrackr](http://www.milktrackr.com/)
+- [Missql Command](http://missqlcommand.com/)
+- [NBAStalk](http://162.243.240.32/)
+- [OctoMaps](http://octomaps.com)
+- [Pale Blue Dot](http://palebluedot.herokuapp.com/)
+- [WhoWhatWhen](http://192.241.176.112/)
+- [Wishgram](http://162.243.119.229/)
 
 ## Ideas
 
