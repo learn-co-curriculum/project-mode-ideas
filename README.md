@@ -37,6 +37,7 @@ There are a bunch of student projects that Flatiron is proud of. Here are just a
 
 - [Crowd Tangle](http://www.crowdtangle.com/map)
 - [GameTable](http://gametable.co/)
+- [Get24](http://getto24.herokuapp.com/)
 - [Gitshoes](http://www.gitshoes.com/)
 - [Kickammender](http://162.243.246.245/)
 - [LocalList](http://localist.herokuapp.com/)
