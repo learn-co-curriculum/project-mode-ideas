@@ -36,6 +36,7 @@ Every feature of your applicationshould answer a question. For instance, an appl
 There are a bunch of student projects that Flatiron is proud of. Here are just a few:
 
 - [Crowd Tangle](http://www.crowdtangle.com/map)
+- [Ensemblify](http://www.ensemblify.com/)
 - [GameTable](http://gametable.co/)
 - [Get24](http://getto24.herokuapp.com/)
 - [Gitshoes](http://www.gitshoes.com/)
