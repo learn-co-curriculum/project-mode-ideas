@@ -33,29 +33,20 @@ Every feature of your applicationshould answer a question. For instance, an appl
 
 There are a bunch of student projects that Flatiron is proud of. Here are just a few:
 
-- [Crowd Tangle](http://www.crowdtangle.com/map)
-- [Flatiron Postcard](http://www.flatironpostcard.com/)
-- [GameTable](http://gametable.co/)
-- [Gitshoes](http://www.gitshoes.com/)
-- [InstaLocal](http://instalocal.herokuapp.com/)
-- [Kickammender](http://162.243.246.245/)
-- [LocalList](http://localist.herokuapp.com/)
-- [Looseleaf](http://looseleaf.me/)
-- [MessyChef](http://messychef.herokuapp.com/)
-- [MilkTrackr](http://www.milktrackr.com/)
-- [Missql Command](http://missqlcommand.com/)
-- [Modern Mind](http://modernmind.herokuapp.com/)
-- [NBAStalk](http://162.243.240.32/)
-- [Noted](http://www.gonoted.com/)
-- [OctoMaps](http://octomaps.com)
-- [Odysee](http://www.odysee.voyage/)
-- [Pale Blue Dot](http://palebluedot.herokuapp.com/)
-- [Picker Pool](http://www.pickerpool.com/)
-- [Tweet World](http://www.tweetworld.me/)
-- [What's Better](http://www.whatsbetter.co/)
-- [WhoWhatWhen](http://192.241.176.112/)
-- [Wishgram](http://162.243.119.229/)
-- [World View](http://www.world-view.today/)
+|A - M| N - Z|
+|-----|------|
+|[Crowd Tangle](http://www.crowdtangle.com/map)|[NBAStalk](http://162.243.240.32/)|
+|[Flatiron Postcard](http://www.flatironpostcard.com/)|[Noted](http://www.gonoted.com/)|
+|[GameTable](http://gametable.co/)|[OctoMaps](http://octomaps.com)|
+|[Gitshoes](http://www.gitshoes.com/)|[Odysee](http://www.odysee.voyage/)|
+|[InstaLocal](http://instalocal.herokuapp.com/)|[Pale Blue Dot](http://palebluedot.herokuapp.com/)|
+|[Kickammender](http://162.243.246.245/)|[Picker Pool](http://www.pickerpool.com/)|
+|[LocalList](http://localist.herokuapp.com/)|[Tweet World](http://www.tweetworld.me/)|
+|[Looseleaf](http://looseleaf.me/)|[What's Better](http://www.whatsbetter.co/)|
+|[MessyChef](http://messychef.herokuapp.com/)|[WhoWhatWhen](http://192.241.176.112/)|
+|[MilkTrackr](http://www.milktrackr.com/)|[Wishgram](http://162.243.119.229/)|
+|[Missql Command](http://missqlcommand.com/)|[World View](http://www.world-view.today/)|
+|[Modern Mind](http://modernmind.herokuapp.com/)||
 
 ## Suggested Ideas
 
