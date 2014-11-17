@@ -44,7 +44,7 @@ Remember, every project should answer a question or solve a problem. Please read
 
 ### Media
 
-* Increase Your Twitter Following
+* Increase Users' Number of Followers on Twitter
   * Pretty much, you would be building a free version of [Refollow](http://re-follow.com/).
   * Based on content of a user's tweets and the people who already follow that user, this software would recommend other Twitter uses for the user to follow who would be more likely to follow back. 
   * It would also suggest a list of users to unfollow because they're not following back.
@@ -103,9 +103,8 @@ Remember, every project should answer a question or solve a problem. Please read
 ### Advertising / Marketing / Split Testing
 
 * Find the Best Image
-  * Basically like OkCupid's My Best Face - but imagine you want to choose an image for your website, which is best? Split test it. Inspired by: 
-    
-      I wish there was OKCupid's My Best Face for business. I have a stack of #MuseumHack tour images, want to know which       one is liked best.
+  * Basically like OkCupid's My Best Face - but imagine you want to choose an image for your website, which is best? Split test it.
+  * Inspired by "I wish there was OKCupid's My Best Face for business. I have a stack of #MuseumHack tour images, want to know which one is liked best."
    
 
 ## Data
