@@ -23,7 +23,11 @@
 
 ## Background
 
-In terms of what projects are cool, we tend to think the nature of value in software lies in being able to answer or automate a question that was previously difficult. For example, Airbnb answers the questions "Who's couch can I crash on tonight?", Kickstarter "Where can I get money for an art project?" (or conversely, "Which independent projects can I support?"). Your application—every feature—should answer a person's question. For instance, an application you could build might answer, "Who is committing code at Flatiron School right now?", "Who wants to meet for tutoring this weekend?". Focus on questions, on problems, then solve them with code. Your application should answer at most 2-3 fundemental questions.
+In terms of what projects are cool, we tend to think the nature of value in software lies in being able to answer or automate a question that was previously difficult.
+
+For example, AirBnB answers the question "Who's couch can I crash on tonight?" and, "How can my guest bedroom/couch earn me extra cash?". Meanwhilte, Kickstarter answers the questions "Where can I get money for an art project?" and "Which independent projects can I support?". 
+
+Every feature of your applicationshould answer a question. For instance, an application you could build might answer, "Who is committing code at Flatiron School right now?", "Who wants to meet for tutoring this weekend?". Focus on questions, on problems, then solve them with code. Your application should answer at most 2-3 fundemental questions.
 
 ## Ideas
 
@@ -31,23 +35,33 @@ In terms of what projects are cool, we tend to think the nature of value in soft
 * Wake Up Morning Texts / Email
   * A morning text/email with what you need to do know for today.
 * Increase Your Twitter Following
-  * Based on content of a user's tweets and the people who already follow that user, this software would recommend other Twitter uses for the user to follow who would be more likely to follow back. It would suggest a list of users to unfollow because they're not following back, and it would suggest a list of users to unfollow because they're following and tend to continue following, whether or whether not the users they follow follow-back.
+  * Pretty much, you would be building a free version of [Refollow](http://re-follow.com/).
+  * Based on content of a user's tweets and the people who already follow that user, this software would recommend other Twitter uses for the user to follow who would be more likely to follow back. 
+  * It would also suggest a list of users to unfollow because they're not following back.
+  * Finally, it would suggest a list of users to unfollow because they're following and tend to continue following, whether or whether not the users they follow follow-back.
 * Scrapebook CMS
   * Create a scrapebook timecapsule where you create a vignette of data and get it emailed to you.
 * Seasonal Ingredient Recipe Suggestor
   * Self-explanatory 
 
 ### Data Visualization
-* Maps that show social program enrollment data, such as [Slate's article on food stamps](http://www.slate.com/articles/news_and_politics/map_of_the_week/2013/04/food_stamp_recipients_by_county_an_interactive_tool_showing_local_snap_data.html) and [D3 visualization of food stamps by state](http://bl.ocks.org/NPashaP/a74faf20b492ad377312).
+
+* Maps that show social program enrollment data, such as [Slate's article on food stamps](http://www.slate.com/articles/news_and_politics/map_of_the_week/2013/04/food_stamp_recipients_by_county_an_interactive_tool_showing_local_snap_data.html) and [D3 visualization of food stamps by state](http://bl.ocks.org/NPashaP/a74faf20b492ad377312). For some D3 inspiration, take a look at [some examples](https://github.com/mbostock/d3/wiki/Gallery).
 * Map that shows school statistics, such as SAT score, funding, dropout rates, etc. by country/state/county/etc.
 
 ### Developer-Specific
+
 * Gitabarotors
   * Show via commits who and through what projects you've worked on with people.
 * Big O calculutor
   * Read more about Big-O Notation [here](http://en.wikipedia.org/wiki/Big_O_notation).
+* Hack Hacker News
+  * Analyze which users on Hacker News are the most popular
+* Visualization of who is committing code around the world
+  * Along the lines of [GitHubBub](http://githubbub.com/).
 
 ### Flatiron Software
+
 * Flatiron GitHub Pull Request Solari Dashboard via GitHub API hooks
   * See Fog Creek's example [here](https://github.com/FogCreek/solari-board)
   * Would display on TV screens for subsequent semesters.
@@ -82,6 +96,8 @@ In terms of what projects are cool, we tend to think the nature of value in soft
    
 
 ## Data
+
+There are many places to find data. There are APIs, open data from the government and other agencies/organizations, private APIs you can look into discovering (read up [here](http://hungtran.co/discovering-tinders-private-api/)), plus random spreadsheets and tables scattered throughout the web. Below are a few of our favorites.
 
 ### APIs
 
