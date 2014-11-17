@@ -17,6 +17,7 @@
 ||[Logistics](#logistics)|
 ||[Social Impact](#social-impact)|
 |[APIs](#apis)||
+|[Misc. Data](#miscellaneous_data)||
 
 # Background
 
@@ -85,11 +86,33 @@ There are many, here are some recommendations:
 - [Balanced Paymet](https://docs.balancedpayments.com/1.1/overview/)
 - [Etsy](https://www.etsy.com/developers/documentation/getting_started/api_basics)
 - [Facebook](https://developers.facebook.com/)
+- [Fandango](https://developer.fandango.com/docs/Home/)
+- [Flickr](https://www.flickr.com/services/api/)
 - [Foursquare](https://developer.foursquare.com/start)
+- [Giphy](https://github.com/giphy/GiphyAPI)
 - [Github](http://developer.github.com/v3/)
+- [Hacker News](https://github.com/HackerNews/API)
+- [Imgur](https://api.imgur.com/)
+- [LinkedIn](https://developer.linkedin.com/apis)
+- [New York Times](http://developer.nytimes.com/docs)
 - [NYC Open Data](https://nycopendata.socrata.com/)
+- [Pintrest](https://developers.pinterest.com/)
+- [Reddit](http://www.reddit.com/dev/api)
+- [Rotten Tomatoes](http://developer.rottentomatoes.com/)
 - [Spotify](https://developer.spotify.com/web-api/)
 - [StackExchange](http://api.stackexchange.com/)
+- [Tumblr](https://www.tumblr.com/docs/en/api/v2)
 - [Twilio](http://twilio.com)
 - [Twitter](https://developer.twitter.com)
+- [YouTube](https://developers.google.com/youtube/)
+- [Yummly](https://developer.yummly.com/)
 - [Wit.AI](http://wit.ai)
+- [Weather Underground](http://www.wunderground.com/weather/api/)
+- [Vine](https://github.com/starlock/vino/wiki/API-Reference)
+- [4Chan](https://github.com/4chan/4chan-API)
+
+## Miscellaneous Data
+
+- [NYC Open Data](https://nycopendata.socrata.com/)
+- [Data.gov](https://www.data.gov/)
+- [United Nations Data](http://data.un.org/)
