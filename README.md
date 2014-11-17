@@ -25,7 +25,7 @@ language: english, ruby
 
 In terms of what projects are cool, we tend to think the nature of value in software lies in being able to answer or automate a question that was previously difficult.
 
-For example, AirBnB answers the question "Who's couch can I crash on tonight?" and "How can my guest bedroom/couch earn me extra cash?". Meanwhile, Kickstarter answers the questions "Where can I get money for an art project?" and "Which independent projects can I support?". 
+For example, AirBnB answers the question "Whose couch can I crash on tonight?" and "How can my guest bedroom/couch earn me extra cash?". Meanwhile, Kickstarter answers the questions "Where can I get money for an art project?" and "Which independent projects can I support?". 
 
 Every feature of your applicationshould answer a question. For instance, an application you could build might answer, "Who is committing code at Flatiron School right now?", "Who wants to meet for tutoring this weekend?". Focus on questions, on problems, then solve them with code. Your application should answer at most 2-3 fundemental questions.
 
@@ -46,6 +46,7 @@ There are a bunch of student projects that Flatiron is proud of. Here are just a
 - [Missql Command](http://missqlcommand.com/)
 - [Modern Mind](http://modernmind.herokuapp.com/)
 - [NBAStalk](http://162.243.240.32/)
+- [Noted](http://www.gonoted.com/)
 - [OctoMaps](http://octomaps.com)
 - [Odysee](http://www.odysee.voyage/)
 - [Pale Blue Dot](http://palebluedot.herokuapp.com/)
@@ -66,14 +67,14 @@ Remember, every project should answer a question or solve a problem. Please read
   * A morning text/email with what you need to do know for today.
 * Scrapebook CMS
   * Create a scrapebook timecapsule where you create a vignette of data and get it emailed to you.
-* Seasonal Ingredient Recipe Suggestor
+* Seasonal Ingredient Recipe Suggester
   * Self-explanatory 
 
 ### Media
 
 * Increase Users' Number of Followers on Twitter
   * Pretty much, you would be building a free version of [Refollow](http://re-follow.com/).
-  * Based on content of a user's tweets and the people who already follow that user, this software would recommend other Twitter uses for the user to follow who would be more likely to follow back. 
+  * Based on content of a user's tweets and the people who already follow that user, this software would recommend other Twitter users for the user to follow who would be more likely to follow back. 
   * It would also suggest a list of users to unfollow because they're not following back.
   * Finally, it would suggest a list of users to unfollow because they're following and tend to continue following, whether or whether not the users they follow follow-back.
 * Podcastr
@@ -86,12 +87,12 @@ Remember, every project should answer a question or solve a problem. Please read
 
 ### Developer-Specific
 
-* Gitabarotors
-  * Show via commits who and through what projects you've worked on with people.
+* Gitaborators
+  * Show through your commits who you've worked with and what projects you've worked on.
 * Big O calculutor
   * Read more about Big-O Notation [here](http://en.wikipedia.org/wiki/Big_O_notation).
 * Hack Hacker News
-  * Analyze which users on Hacker News are the most popular
+  * Analyze which [users are the most popular](http://minimaxir.com/img/hn-top-submitters.png) on Hacker News.
 * Visualization of who is committing code around the world
   * Along the lines of [GitHubBub](http://githubbub.com/).
 
