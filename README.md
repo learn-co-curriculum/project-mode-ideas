@@ -46,6 +46,7 @@ There are a bunch of student projects that Flatiron is proud of. Here are just a
 - [NBAStalk](http://162.243.240.32/)
 - [OctoMaps](http://octomaps.com)
 - [Pale Blue Dot](http://palebluedot.herokuapp.com/)
+- [Picker Pool](http://www.pickerpool.com/)
 - [WhoWhatWhen](http://192.241.176.112/)
 - [Wishgram](http://162.243.119.229/)
 
