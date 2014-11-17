@@ -17,7 +17,6 @@
 ||[Flatiron Software](#flatiron-software)|
 ||[Logistics](#logistics)|
 ||[Social Impact](#social-impact)|
-
 |[Data](#data)||
 ||[APIs](#apis)|
 ||[Open Data](#miscellaneous-data)|
