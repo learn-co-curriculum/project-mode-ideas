@@ -123,6 +123,7 @@ There are many, here are some recommendations:
 - [Rotten Tomatoes](http://developer.rottentomatoes.com/)
 - [Spotify](https://developer.spotify.com/web-api/)
 - [StackExchange](http://api.stackexchange.com/)
+- [Stripe](https://stripe.com/docs/api)
 - [Tumblr](https://www.tumblr.com/docs/en/api/v2)
 - [Twilio](http://twilio.com)
 - [Twitter](https://developer.twitter.com)
