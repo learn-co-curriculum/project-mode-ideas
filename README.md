@@ -11,16 +11,14 @@ language: english, ruby
 |-------------|-------------|
 |[Background](#background)||
 |[Past Projects](#past-projects)||
-|[Ideas](#ideas)||
-||[Curating-Focused](#apps-that-curate-information)|
+|[Suggested Ideas](#suggested-ideas)|[Curating-Focused](#apps-that-curate-information)|
 ||[Media](#media)
 ||[Data Visualization](#data-visualization)|
 ||[Developer-Specific](#developer-specific)|
 ||[Flatiron Software](#flatiron-software)|
 ||[Logistics](#logistics)|
 ||[Social Impact](#social-impact)|
-|[Data](#data)||
-||[APIs](#apis)|
+|[Data](#data)|[APIs](#apis)|
 ||[Open Data](#miscellaneous-data)|
 
 ## Background
@@ -58,7 +56,7 @@ There are a bunch of student projects that Flatiron is proud of. Here are just a
 - [Wishgram](http://162.243.119.229/)
 - [World View](http://www.world-view.today/)
 
-## Ideas
+## Suggested Ideas
 
 Remember, every project should answer a question or solve a problem. Please read the [background section](#background) first before brainstorming.
 
