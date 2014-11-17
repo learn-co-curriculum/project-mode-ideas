@@ -112,7 +112,7 @@ Remember, every project should answer a question or solve a problem. Please read
 
 * Food Truck Tracker
   * Based on foodtruck twitters, or other info, map foodtrucks.
-* Make an app that allows families to share personal services such as nannies, babysitters, petsitters, and elderly nurses.
+* Make an app that allows families to share personal services such as nannies, babysitters, petsitters, and nurses for the elderly.
   * Take a look at [Share Our Nanny](http://shareournanny.blogspot.com/) blog to get started.
 
 ### Advertising / Marketing / Split Testing
