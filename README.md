@@ -73,7 +73,7 @@ Remember, every project should answer a question or solve a problem. Please read
 ### Media
 
 * Increase Users' Number of Followers on Twitter
-  * Pretty much, you would be building a free version of [Refollow](http://re-follow.com/).
+  * Similar to building a free version of [Refollow](http://re-follow.com/).
   * Based on content of a user's tweets and the people who already follow that user, this software would recommend other Twitter users for the user to follow who would be more likely to follow back. 
   * It would also suggest a list of users to unfollow because they're not following back.
   * Finally, it would suggest a list of users to unfollow because they're following and tend to continue following, whether or whether not the users they follow follow-back.
@@ -82,7 +82,8 @@ Remember, every project should answer a question or solve a problem. Please read
 
 ### Data Visualization
 
-* Maps that show social program enrollment data, such as [Slate's article on food stamps](http://www.slate.com/articles/news_and_politics/map_of_the_week/2013/04/food_stamp_recipients_by_county_an_interactive_tool_showing_local_snap_data.html) and [D3 visualization of food stamps by state](http://bl.ocks.org/NPashaP/a74faf20b492ad377312). For some D3 inspiration, take a look at [some examples](https://github.com/mbostock/d3/wiki/Gallery).
+* Maps that show social program enrollment data, such as [Slate's article on food stamps](http://www.slate.com/articles/news_and_politics/map_of_the_week/2013/04/food_stamp_recipients_by_county_an_interactive_tool_showing_local_snap_data.html) and [D3 visualization of food stamps by state](http://bl.ocks.org/NPashaP/a74faf20b492ad377312). For some D3 inspiration, take a look at [some examples](https://github.com/mbostock/d3/wiki/Gallery). 
+  * Make sure these apps tackle more than just taking data with geo coordinates and mapping them.
 * Map that shows school statistics, such as SAT score, funding, dropout rates, etc. by country/state/county/etc.
 
 ### Developer-Specific
