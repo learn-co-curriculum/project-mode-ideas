@@ -128,35 +128,19 @@ There are many places to find data. There are APIs, open data from the governmen
 
 There are many, here are some recommendations:
 
-- [Balanced Paymet](https://docs.balancedpayments.com/1.1/overview/)
-- [Etsy](https://www.etsy.com/developers/documentation/getting_started/api_basics)
-- [Facebook](https://developers.facebook.com/)
-- [Fandango](https://developer.fandango.com/docs/Home/)
-- [Flickr](https://www.flickr.com/services/api/)
-- [Foursquare](https://developer.foursquare.com/start)
-- [Giphy](https://github.com/giphy/GiphyAPI)
-- [Github](http://developer.github.com/v3/)
-- [Google Maps](https://developers.google.com/maps/)
-- [Hacker News](https://github.com/HackerNews/API)
-- [Imgur](https://api.imgur.com/)
-- [LinkedIn](https://developer.linkedin.com/apis)
-- [New York Times](http://developer.nytimes.com/docs)
-- [NYC Open Data](https://nycopendata.socrata.com/)
-- [Pintrest](https://developers.pinterest.com/)
-- [Reddit](http://www.reddit.com/dev/api)
-- [Rotten Tomatoes](http://developer.rottentomatoes.com/)
-- [Spotify](https://developer.spotify.com/web-api/)
-- [StackExchange](http://api.stackexchange.com/)
-- [Stripe](https://stripe.com/docs/api)
-- [Tumblr](https://www.tumblr.com/docs/en/api/v2)
-- [Twilio](http://twilio.com)
-- [Twitter](https://developer.twitter.com)
-- [YouTube](https://developers.google.com/youtube/)
-- [Yummly](https://developer.yummly.com/)
-- [Wit.AI](http://wit.ai)
-- [Weather Underground](http://www.wunderground.com/weather/api/)
-- [Vine](https://github.com/starlock/vino/wiki/API-Reference)
-- [4Chan](https://github.com/4chan/4chan-API)
+|A - G|H - S|T - Z|
+|-----|-----|-----|
+|[Balanced Paymet](https://docs.balancedpayments.com/1.1/overview/)|[Hacker News](https://github.com/HackerNews/API)|[Tumblr](https://www.tumblr.com/docs/en/api/v2)|
+|[Etsy](https://www.etsy.com/developers/documentation/getting_started/api_basics)|[Imgur](https://api.imgur.com/)|[Twilio](http://twilio.com)|
+|[Facebook](https://developers.facebook.com/)|[LinkedIn](https://developer.linkedin.com/apis)|[Twitter](https://developer.twitter.com)|
+[New York Times](http://developer.nytimes.com/docs)|[YouTube](https://developers.google.com/youtube/)|
+|[Fandango](https://developer.fandango.com/docs/Home/)|[NYC Open Data](https://nycopendata.socrata.com/)|[Yummly](https://developer.yummly.com/)|
+[Pintrest](https://developers.pinterest.com/)|[Wit.AI](http://wit.ai)|
+|[Flickr](https://www.flickr.com/services/api/)|[Reddit](http://www.reddit.com/dev/api)|[Weather Underground](http://www.wunderground.com/weather/api/)|
+|[Foursquare](https://developer.foursquare.com/start)|[Rotten Tomatoes](http://developer.rottentomatoes.com/)|[Vine](https://github.com/starlock/vino/wiki/API-Reference)|
+|[Giphy](https://github.com/giphy/GiphyAPI)|[Spotify](https://developer.spotify.com/web-api/)|[4Chan](https://github.com/4chan/4chan-API)|
+|[Github](http://developer.github.com/v3/)|[StackExchange](http://api.stackexchange.com/)
+|[Google Maps](https://developers.google.com/maps/)|[Stripe](https://stripe.com/docs/api)
 
 ### Miscellaneous Data
 
