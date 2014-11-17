@@ -145,6 +145,7 @@ There are many, here are some recommendations:
 - [Foursquare](https://developer.foursquare.com/start)
 - [Giphy](https://github.com/giphy/GiphyAPI)
 - [Github](http://developer.github.com/v3/)
+- [Google Maps](https://developers.google.com/maps/)
 - [Hacker News](https://github.com/HackerNews/API)
 - [Imgur](https://api.imgur.com/)
 - [LinkedIn](https://developer.linkedin.com/apis)
