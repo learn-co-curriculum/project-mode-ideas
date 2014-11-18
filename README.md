@@ -41,12 +41,12 @@ There are a bunch of student projects that Flatiron is proud of. Here are just a
 |[Gitshoes](http://www.gitshoes.com/)|[Odysee](http://www.odysee.voyage/)|
 |[InstaLocal](http://instalocal.herokuapp.com/)|[Pale Blue Dot](http://palebluedot.herokuapp.com/)|
 |[Kickammender](http://162.243.246.245/)|[Picker Pool](http://www.pickerpool.com/)|
-|[LocalList](http://localist.herokuapp.com/)|[Tweet World](http://www.tweetworld.me/)|
-|[Looseleaf](http://looseleaf.me/)|[What's Better](http://www.whatsbetter.co/)|
-|[MessyChef](http://messychef.herokuapp.com/)|[WhoWhatWhen](http://192.241.176.112/)|
-|[MilkTrackr](http://www.milktrackr.com/)|[Wishgram](http://162.243.119.229/)|
-|[Missql Command](http://missqlcommand.com/)|[World View](http://www.world-view.today/)|
-|[Modern Mind](http://modernmind.herokuapp.com/)||
+|[LocalList](http://localist.herokuapp.com/)|[Swear Jar](http://swearjar.me/)|
+|[Looseleaf](http://looseleaf.me/)|[Tweet World](http://www.tweetworld.me/)|
+|[MessyChef](http://messychef.herokuapp.com/)|[What's Better](http://www.whatsbetter.co/)|
+|[MilkTrackr](http://www.milktrackr.com/)|[WhoWhatWhen](http://192.241.176.112/)|
+|[Missql Command](http://missqlcommand.com/)|[Wishgram](http://162.243.119.229/)|
+|[Modern Mind](http://modernmind.herokuapp.com/)|[World View](http://www.world-view.today/)|
 
 ## Suggested Ideas
 
