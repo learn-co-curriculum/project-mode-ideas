@@ -141,9 +141,10 @@ There are many, here are some recommendations:
 |[Google Maps](https://developers.google.com/maps/)|[Twitter](https://developer.twitter.com)|
 |[Hacker News](https://github.com/HackerNews/API)|[YouTube](https://developers.google.com/youtube/)|
 |[Imgur](https://api.imgur.com/)|[Yummly](https://developer.yummly.com/)|
-|[LinkedIn](https://developer.linkedin.com/apis)|[Wit.AI](http://wit.ai)|
-|[New York Times](http://developer.nytimes.com/docs)|[Weather Underground](http://www.wunderground.com/weather/api/)|
-|[NYC Open Data](https://nycopendata.socrata.com/)|[Vine](https://github.com/starlock/vino/wiki/API-Reference)|
+|[Instagram](http://instagram.com/developer/)|[Wit.AI](http://wit.ai)|
+|[LinkedIn](https://developer.linkedin.com/apis)|[Weather Underground](http://www.wunderground.com/weather/api/)|
+|[New York Times](http://developer.nytimes.com/docs)|[Vine](https://github.com/starlock/vino/wiki/API-Reference)|
+|[NYC Open Data](https://nycopendata.socrata.com/)|[Venmo](https://developer.venmo.com/)|
 ||[4Chan](https://github.com/4chan/4chan-API)|
 
 ### Miscellaneous Data
