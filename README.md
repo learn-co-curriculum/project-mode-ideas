@@ -22,7 +22,7 @@ In terms of what projects are cool, we tend to think the nature of value in soft
 
 For example, AirBnB answers the question "Whose couch can I crash on tonight?" and "How can my guest bedroom/couch earn me extra cash?". Meanwhile, Kickstarter answers the questions "Where can I get money for an art project?" and "Which independent projects can I support?". 
 
-Every feature of your applicationshould answer a question. For instance, an application you could build might answer, "Who is committing code at Flatiron School right now?", "Who wants to meet for tutoring this weekend?". Focus on questions, on problems, then solve them with code. Your application should answer at most 2-3 fundemental questions.
+Every feature of your application should answer a question. For instance, an application you could build might answer, "Who is committing code at Flatiron School right now?", "Who wants to meet for tutoring this weekend?". Focus on questions, on problems, then solve them with code. Your application should answer at most 2-3 fundamental questions.
 
 ## Past Projects
 
