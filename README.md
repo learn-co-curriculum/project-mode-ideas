@@ -28,24 +28,34 @@ Every feature of your application should answer a question. For instance, an app
 
 There are a bunch of student projects that Flatiron is proud of. Here are just a few:
 
-|A - M| N - Z|
-|-----|------|
-|[City Showdown](http://cityshowdown.herokuapp.com/)|[NBAStalk](http://162.243.240.32/)|
-|[Crowd Tangle](http://www.crowdtangle.com/map)|[NOMO](https://whereismyband.herokuapp.com/)|
-|[Destination Inspiration](http://www.destinationinspiration.co/)|[Noted](http://www.gonoted.com/)|
-|[Flatiron Postcard](http://www.flatironpostcard.com/)|[OctoMaps](http://octomaps.com)|
-|[GameTable](http://gametable.co/)|[Odysee](http://www.odysee.voyage/)|
-|[Gitshoes](http://www.gitshoes.com/)|[Pale Blue Dot](http://palebluedot.herokuapp.com/)|
-|[HotPockets](http://hotpockets.herokuapp.com)|[Simplist](https://simplist-ruby007.herokuapp.com)|
-|[InstaLocal](http://instalocal.herokuapp.com/)|[Swear Jar](http://swearjar.me/)|
-|[Kickammender](http://162.243.246.245/)|[Tweet World](http://www.tweetworld.me/)|
-|[Know Parking](http://www.knowparkingnyc.com/)|[What's Better](http://www.whatsbetter.co/)|
-|[LocalList](http://localist.herokuapp.com/)|[WhoWhatWhen](http://192.241.176.112/)|
-|[Looseleaf](http://looseleaf.me/)|[Wishgram](http://162.243.119.229/)|
-|[MediSearch](https://medi-search.herokuapp.com/)|[World View](http://www.world-view.today/)|
-|[MessyChef](http://messychef.herokuapp.com/)||
-|[Missql Command](http://missqlcommand.com/)||
-|[Modern Mind](http://modernmind.herokuapp.com/)||
+|List of some Student Projects|
+|-----|
+|[Approvable Feast](http://www.approvablefeast.com/)|
+|[City Showdown](http://cityshowdown.herokuapp.com/)|
+|[Crowd Tangle](http://www.crowdtangle.com/map)|
+|[Destination Inspiration](http://www.destinationinspiration.co/)|
+|[Flatiron Postcard](http://www.flatironpostcard.com/)|
+|[GameTable](http://gametable.co/)|
+|[InstaLocal](http://instalocal.herokuapp.com/)|
+|[Kickammender](http://162.243.246.245/)|
+|[Knit](http://knit.herokuapp.com/)|
+|[Know Parking](http://www.knowparkingnyc.com/)|
+|[LocalList](http://localist.herokuapp.com/)|
+|[MessyChef](http://messychef.herokuapp.com/)|
+|[Missql Command](http://missqlcommand.com/)|
+|[Modern Mind](http://modernmind.herokuapp.com/)|
+|[NBAStalk](http://162.243.240.32/)|
+|[NOMO](https://whereismyband.herokuapp.com/)|
+|[Noted](http://www.gonoted.com/)|
+|[OctoMaps](http://octomaps.com)|
+|[Odysee](http://www.odysee.voyage/)|
+|[Pale Blue Dot](http://palebluedot.herokuapp.com/)|
+|[Simplist](https://simplist-ruby007.herokuapp.com)|
+|[Swear Jar](http://swearjar.me/)|
+|[Where are they](http://www.wherearetheyrightnow.com/)|
+|[WhoWhatWhen](http://192.241.176.112/)|
+|[Wishgram](http://162.243.119.229/)|
+|[World View](http://www.world-view.today/)|
 
 ## Suggested Ideas
 
