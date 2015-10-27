@@ -80,7 +80,7 @@ Remember, every project should answer a question or solve a problem. Please read
 
 * Gitaborators
   * Show through your commits who you've worked with and what projects you've worked on.
-* Big O calculutor
+* Big O calculator
   * Read more about Big-O Notation [here](http://en.wikipedia.org/wiki/Big_O_notation).
 * Hack Hacker News
   * Analyze which [users are the most popular](http://minimaxir.com/img/hn-top-submitters.png) on Hacker News.
@@ -96,12 +96,12 @@ Remember, every project should answer a question or solve a problem. Please read
   * Would be hosted at `eat.flatironschool.com`.
 * Match Volunteer Tutors to Students
   * Uses locations, skill levels, preferences, availability to match tutors with students.
-  * Could take the place of Elana's current weekend Google Drive spreadsheet system.
+  * Could take the place of Diane's current weekend Google Drive spreadsheet system.
 
 ### Logistics
 
 * Food Truck Tracker
-  * Based on foodtruck twitters, or other info, map foodtrucks.
+  * Based on food truck twitters, or other info, map food trucks.
 * Make an app that allows families to share personal services such as nannies, babysitters, petsitters, and nurses for the elderly.
   * Take a look at [Share Our Nanny](http://shareournanny.blogspot.com/) blog to get started.
 
