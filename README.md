@@ -163,4 +163,4 @@ There are many, here are some recommendations:
 - [United Nations Data](http://data.un.org/)
 - [All the Government Open Data Sources](http://18f.github.io/API-All-the-X/data/individual_apis)
 
-<a href='https://learn.co/lessons/project-mode-ideas' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/project-mode-ideas' title='Web Development Project Mode Ideas'>Web Development Project Mode Ideas</a> on Learn.co and start learning to code for free.</p>
